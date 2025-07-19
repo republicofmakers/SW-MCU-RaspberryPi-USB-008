@@ -1,7 +1,7 @@
 # SW-RaspberryPi-Thonny-USB-008
 
 
-Here is simple usb code to receive data from your PC from develeopment board.
+Here is simple usb code to receive data from your PC to develeopment board.
 
 <img width="622" height="486" alt="intro" src="https://github.com/user-attachments/assets/d3cf975c-c467-49c0-b371-3fc775748dcf" />
 
