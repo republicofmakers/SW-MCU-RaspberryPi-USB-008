@@ -1,4 +1,4 @@
-# SW-RaspberryPi-Thonny-USB-008
+# SW-MCU-RaspberryPi-USB-008
 
 
 Here is simple usb code to receive data from your PC to develeopment board.
